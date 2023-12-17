@@ -1,0 +1,1 @@
+This repository is for my Capstone course in Computer Sofware Technology. This is the final course of my program in pursuit of my B.S. degree. I will be working on a project throughout this course for developing a class registration site.
